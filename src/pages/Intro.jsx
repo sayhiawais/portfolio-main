@@ -15,7 +15,7 @@ function Intro() {
           {/* Text Content */}
           <div className="md:w-2/3">
             <h1 className="text-8xl text-amber-400 mb-4">Hi!</h1>
-            <h2 className="title-font sm:text-4xl mb-4 font-medium text-amber-200">
+            <h2 className="title-font sm:text-4xl mb-4 font-medium text-2xl text-amber-200">
               It's me Awais 
               </h2>
               <h2 className="title-font sm:text-4xl mb-4 font-medium text-amber-200">
