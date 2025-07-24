@@ -38,7 +38,7 @@ function Footer() {
               <FaInstagram size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/mirza-awais-ali"
+              href="https://www.linkedin.com/in/mirza-awais-ali-a445b9363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-400 transition"
