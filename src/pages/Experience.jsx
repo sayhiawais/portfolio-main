@@ -4,7 +4,7 @@ function Experience() {
   const experiences = [
      {
       title: 'Full Stack Developer',
-      company: 'ideoversity Training and Educational Institute',
+      company: 'ITU - Arfa Software Technology Park',
       duration: '2025 - Present', 
       description:
         'Building responsive user interfaces with React.js, integrating REST APIs, and maintaining modern web applications with performance optimizations.',
