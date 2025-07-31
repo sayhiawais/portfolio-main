@@ -15,7 +15,7 @@ function Footer() {
 
           {/* Middle: Contact Info */}
           <div className="text-sm text-center sm:text-left">
-            <p>Email: <a href="mailto:awais@example.com" className="text-amber-400 hover:underline">sayhiawais@gmail.com</a></p>
+            <p>Email: <a href="mailto:awais@example.com" className="text-amber-400 hover:underline">info@sayhiawais.com</a></p>
             <p>Phone: <a href="tel:+923399002828" className="text-amber-400 hover:underline">+92 339 9002828</a></p>
           </div>
 
